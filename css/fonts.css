@@ -1,0 +1,82 @@
+/* Montserrat */
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,700,900&subset=cyrillic');
+
+/* Bebas */
+@font-face {
+    font-family: 'Bebas';
+    src: url('../fonts/hinted-BebasNeueBold.eot');
+    src: local('Bebas Neue Bold'), local('BebasNeueBold'),
+        url('../fonts/hinted-BebasNeueBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/hinted-BebasNeueBold.woff2') format('woff2'),
+        url('../fonts/hinted-BebasNeueBold.woff') format('woff'),
+        url('../fonts/hinted-BebasNeueBold.ttf') format('truetype'),
+        url('../fonts/hinted-BebasNeueBold.svg#BebasNeueBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bebas';
+    src: url('../fonts/hinted-BebasNeueRegular.eot');
+    src: local('Bebas Neue Regular'), local('BebasNeueRegular'),
+        url('../fonts/hinted-BebasNeueRegular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/hinted-BebasNeueRegular.woff2') format('woff2'),
+        url('../fonts/hinted-BebasNeueRegular.woff') format('woff'),
+        url('../fonts/hinted-BebasNeueRegular.ttf') format('truetype'),
+        url('../fonts/hinted-BebasNeueRegular.svg#BebasNeueRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bebas';
+    src: url('../fonts/hinted-BebasNeueLight.eot');
+    src: local('Bebas Neue Light'), local('BebasNeueLight'),
+        url('../fonts/hinted-BebasNeueLight.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/hinted-BebasNeueLight.woff2') format('woff2'),
+        url('../fonts/hinted-BebasNeueLight.woff') format('woff'),
+        url('../fonts/hinted-BebasNeueLight.ttf') format('truetype'),
+        url('../fonts/hinted-BebasNeueLight.svg#BebasNeueLight') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bebas';
+    src: url('../fonts/hinted-BebasNeue-Thin.eot');
+    src: local('Bebas Neue Thin'), local('BebasNeue-Thin'),
+        url('../fonts/hinted-BebasNeue-Thin.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/hinted-BebasNeue-Thin.woff2') format('woff2'),
+        url('../fonts/hinted-BebasNeue-Thin.woff') format('woff'),
+        url('../fonts/hinted-BebasNeue-Thin.ttf') format('truetype'),
+        url('../fonts/hinted-BebasNeue-Thin.svg#BebasNeue-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bebas Neue Book';
+    src: url('../fonts/hinted-BebasNeueBook.eot');
+    src: local('Bebas Neue Book'), local('BebasNeueBook'),
+        url('../fonts/hinted-BebasNeueBook.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/hinted-BebasNeueBook.woff2') format('woff2'),
+        url('../fonts/hinted-BebasNeueBook.woff') format('woff'),
+        url('../fonts/hinted-BebasNeueBook.ttf') format('truetype'),
+        url('../fonts/hinted-BebasNeueBook.svg#BebasNeueBook') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Whitney */
+@font-face {
+    font-family: 'Whitney';
+    src: url('../fonts/Whitney-LightItalic.eot');
+    src: local('Whitney-LightItalic'),
+        url('../fonts/Whitney-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Whitney-LightItalic.woff2') format('woff2'),
+        url('../fonts/Whitney-LightItalic.woff') format('woff'),
+        url('../fonts/Whitney-LightItalic.ttf') format('truetype'),
+        url('../fonts/Whitney-LightItalic.svg#Whitney-LightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+}
