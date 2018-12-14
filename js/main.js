@@ -116,39 +116,9 @@ function sucform() {
     });
 }
 
-$(document).ready(function(){
-	// $(".page").onepage_scroll({
-	//    sectionContainer: ".sec_page",
-	//    easing: "ease",
-	//    animationTime: 1000,
-	//    pagination: true,
-	//    updateURL: false,
-	//    beforeMove: function(index) {},
-	//    afterMove: function(index) {},
-	//    loop: false,
-	//    keyboard: true,
-	//    responsiveFallback: false,
-	//    direction: "vertical"
-	// });
-	// $.scrollify({
-	//     section : ".sec_page",
-	//     interstitialSection : "",
-	//     easing: "easeOutExpo",
-	//     scrollSpeed: 1000,
-	//     offset : 0,
-	//     scrollbars: true,
-	//     standardScrollElements: "",
-	//     setHeights: true,
-	//     overflowScroll: true,
-	//     updateHash: true,
-	//     touchScroll:true,
-	//     before:function() {},
-	//     after:function() {},
-	//     afterResize:function() {},
-	//     afterRender:function() {}
-	// });
+$(document).ready(function(){	
 	$('#fullpage').fullpage({
-		licenseKey: 'OPEN-SOURCE-GPLV3-LICENSE',
+		licenseKey: '',
 		autoScrolling:true,
 		scrollHorizontally: false,
 		normalScrollElements: '#sec_clients'
